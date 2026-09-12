@@ -8,7 +8,7 @@ The project demonstrates how to design a document editor that can handle differe
 
 The complete design and class relationships are available on Excalidraw:
 
-[Document Editor LLD — Excalidraw](https://excalidraw.com/?utm_source=chatgpt.com#json=pBP1StFU14381SHdnVXqi,Ij3Cfd6NmixibWldcfUpDA)
+[Document Editor LLD — Excalidraw](https://excalidraw.com/#json=yfEIdxaFSHmtl47z8o-JO,o7TeQyVPcuT0qIoiUEWj5g)
 
 ---
 
